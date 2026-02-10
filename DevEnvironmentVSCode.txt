@@ -16,4 +16,18 @@ https://git-scm.com/install/windows
 *CodeRunner
 
 
-#testing git account
+VS Code Settings
+
+Text editor > Font
+Check Format on Paste
+Check Format on Save
+
+Text Editor > Files
+Associations:
+Add > Item: *.inc	Value: .php
+Add > Item: *.template	Value: .json
+
+
+Extensions
+GitHub Copilot Chat
+
