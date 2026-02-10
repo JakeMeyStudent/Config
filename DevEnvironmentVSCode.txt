@@ -6,7 +6,7 @@ https://git-scm.com/install/windows
 
 3. Install Extensions in VSCode
 *Github Pull Requests
-
+*GitHub Copilot Chat
 
 ### Python Environment VSCode ###
 1. Install Python on Windows
@@ -26,8 +26,4 @@ Text Editor > Files
 Associations:
 Add > Item: *.inc	Value: .php
 Add > Item: *.template	Value: .json
-
-
-Extensions
-GitHub Copilot Chat
 
